@@ -38,6 +38,7 @@ A curated and collaborative list of awesome fashion resources to improve your st
 * [Parisian Gentleman](https://parisiangentleman.fr/) – No description
 * [Mes élégances](http://www.meselegances.com/) – No description
 * [Paul Lux](http://paul-lux.tumblr.com/) – Contributing Editor at http://parisiangentleman.co.uk Menswear and Bespoke enthusiast. For any...
+* [Be What You Wear](http://www.bw-yw.com/) – Be What You Wear est un blog mode homme décryptant et recherchant les tendances du style masculin et proposant dans un concept store décalé des produits exclusifs.
 * ...
 
 ### Women
@@ -62,7 +63,9 @@ A curated and collaborative list of awesome fashion resources to improve your st
 
 ### Outerwear
 
-* Soon... you can contribute !
+* [Gloverall](http://www.gloverall.com/) – Gloverall is the archetypal luxury British Designer brand, famous for Original Mens and Womens Ladies Duffle coats, Original Monty, British Naval Reefers, British Winter Warms, Overcoats, Raincoats and Trench coats.
+* [Montgomery](http://www.originalmontgomery.com/uk/) – Classic British Duffle Coat by Original Montgomery. Handmade Duffle Coats in England.
+* ...
 
 ### Underwear
 
@@ -93,6 +96,20 @@ A curated and collaborative list of awesome fashion resources to improve your st
 * [Olow](http://www.olow.fr/home/) – De beaux vêtements pleins d’évasion et de poesie réalisés en collaboration avec de nombreux artistes. Marque française, fabriquée au Portugal. !
 * [The Nines](http://www.thenines.fr/) – Bienvenue sur la boutique en ligne The Nines, une marque française d'inspiration anglaise vous proposant un voyage au pays de l'élégance masculine et une fabrication soignée
 * [Commune de Paris 1871](https://www.communedeparis1871.fr/fr) – Commune de Paris 1871, label créatif fondé en 2009, conçoit et produit des articles chics pour hommes, des accessoires, objets décoratifs et autres curiosités.
+* [Suitsupply](http://eu.suitsupply.com/fr/home) – Suitsupply élu N°1 des costumes par le Wall Street Journal - Découvrez et achetez la collection raffinée de costumes, vestes, pantalons, chemises, cravates, chaussures et accessoires pour homme.
+* [Selected](http://www.selectedhomme.com/fr/fr/home) – Get this seasons fashion must-haves for men in the official SELECTED HOMME online shop. New arrivals every week - buy now.
+* [Balibaris](https://www.balibaris.com/fr/) – Bienvenue sur la boutique en ligne Balibaris. Découvrez la collection Automne-Hiver 2016.
+* [Zadig et Voltaire](http://www.zadig-et-voltaire.com/eu/fr/) – Plongez dans l'univers Zadig & Voltaire : la dernière collection de prêt-à-porter, accessoires et parfums. Découvrez nos lookbooks, vidéos et événements.
+* [Saint James](http://www.boutique-saint-james.fr) – Site Officiel Saint James, Vente en ligne vêtements Saint James, vêtements authentiques et de qualité, d'esprit marin. Pour homme, femme, enfant et bébé.
+* [Norse Projects](http://www.norseprojects.com/) – Norse Projects - Created for life - Good for all seasons.
+* [Nike Lab](http://www.nike.com/fr/fr_fr/c/nikelab) – L'innovation par les innovateurs. Des produits performance et lifestyle optimisés, dotés de fonctionnalités uniques et d'une coupe parfaite.
+* [Kestin Hare](https://kestinhare.com/) – Kestin Hare, contemporary menswear made in the UK quality, manufacturing and craftsmanship. Retaining a clean aesthetic combined with unique fabric sourcing.
+* [A kind of guise](https://akindofguise.com/) – Official website of Munich-based brand A Kind of Guise.
+* [Gant](http://www.gant.com/) – Gant.com - Shop for Men's, Women's, and Kids Classic and Casual Clothing at the US home of Original American Sportswear with European Sophistication. Click Here.
+* [Cadot](http://www.cadot.fr/) – Le style en mouvement, l'esprit gentleman driver
+* [Merz b. Schwanen](http://www.merz-schwanen.com/en/) – Good quality 'Made in Germany' for men and women
+* [Maharishi](https://www.maharishistore.com/) – Welcome to the Official Site of maharishi. Shop and view the latest Menswear, Womenswear, Shoes and Accessories. Worldwide Shipping.
+* [Homecore](http://homecore.com/fr/fr/) – Vêtements Homme, manteaux, parkas, doudounes, pulls, pantalons... Avantages exclusifs. Alexandre Guarneri, fondateur de HOMECORE et créateur du Gumjo…
 * ...
 
 ## Marketplaces
@@ -131,6 +148,7 @@ A curated and collaborative list of awesome fashion resources to improve your st
 * [Luisaviaroma](http://www.luisaviaroma.com/home.aspx) – Les dernières collections de vêtements, chaussures, sacs et haute joaillerie des Créateurs les plus prestigieux pour homme et femme.
 * [French Mode](http://www.french-mode.fr/) – Achetez les Nouvelles Collections Luxe de Créateurs de Mode Français sur FRENCH MODE. Livraison et Retours Offerts. Découvrez nos Vêtements, Sacs, Chaussures, Bijoux et Accessoires Femmes et Hommes. Made in France - Paris
 * [Who What Wear](http://shop.whowhatwear.com/) – Shop thousands of the best products, brands, and retailers in ONE place.
+* [Goodhood](http://goodhoodstore.com/) – Online lifestyle destination offering a worldwide curated selection of mens clothing, womens clothing and homeware.
 * ...
 
 ## Contribution
